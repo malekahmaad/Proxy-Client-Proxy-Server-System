@@ -1,7 +1,0 @@
-324921345
-Malek Ahmad
-EX1
-cproxy.c:
- this is the whole program file, it takes url and get it from the server and saves it in a file or if its saved and we call it again, we get it from the file its in 
-README
-I made just one function that is called  dividing this function just takes the full url and divides it to see all the folders, the file name, the hostname and the port  
