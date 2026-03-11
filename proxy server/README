@@ -1,0 +1,8 @@
+324921345
+Malek Ahmad
+EX2_b
+proxyServer.c:
+ this is the main program file, it takes port number with number of threads with filter file with num of tasks and it initialize the server and move the requests to the main server then gives them their response
+threadpool.c
+ this is the threadpool file that we use in the proxy server
+README
